@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Project Overview
+
+- Developed an e-commerce clothing website using React.
+- Used Tailwind CSS, Material UI, and React Icons for the UI design.
+- Integrated Firebase for user authentication.
+- Utilized LocalStorage to store user's cart information.
+- Implemented Browser Router for navigation.
+- Managed state using Context API.
+- Made the site fully responsive.
+- Used React hooks for form validation.
+- Conducted unit testing with Jest.
